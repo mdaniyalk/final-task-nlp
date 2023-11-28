@@ -1,0 +1,9 @@
+*.npy
+downstream
+*.tar
+*.txt
+*.zip
+*.pkl
+/dataset
+*.raw
+/kaggle
